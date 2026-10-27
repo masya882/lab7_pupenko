@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\lab7-pupenko\src\lab7_pupenko\lab7_pupenko\bin\Debug\lab7_pupenko.exe.config
+C:\Users\1\Desktop\lab7-pupenko\src\lab7_pupenko\lab7_pupenko\bin\Debug\lab7_pupenko.exe
+C:\Users\1\Desktop\lab7-pupenko\src\lab7_pupenko\lab7_pupenko\bin\Debug\lab7_pupenko.pdb
+C:\Users\1\Desktop\lab7-pupenko\src\lab7_pupenko\lab7_pupenko\obj\Debug\lab7_pupenko.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\lab7-pupenko\src\lab7_pupenko\lab7_pupenko\obj\Debug\lab7_pupenko.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\lab7-pupenko\src\lab7_pupenko\lab7_pupenko\obj\Debug\lab7_pupenko.exe
+C:\Users\1\Desktop\lab7-pupenko\src\lab7_pupenko\lab7_pupenko\obj\Debug\lab7_pupenko.pdb
